@@ -1,6 +1,6 @@
 {
     "name": "lb-connector-sendcloud",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Loopback connector module which allow to send emails via sendcloud",
     "main": "index.js",
     "keywords": [
